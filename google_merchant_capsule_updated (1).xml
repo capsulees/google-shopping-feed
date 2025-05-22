@@ -1,0 +1,728 @@
+<?xml version="1.0" ?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+  <channel>
+    <title>Capsule Demo Shop</title>
+    <link>https://capsuleapp.io</link>
+    <description>Et testfeed med 60 produkter fra Capsule demo-butikken</description>
+    <item>
+      <g:id>PROD-001</g:id>
+      <g:title>Produkt 1</g:title>
+      <g:description>Beskrivelse af produkt 1</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-1</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_1.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-001</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-002</g:id>
+      <g:title>Produkt 2</g:title>
+      <g:description>Beskrivelse af produkt 2</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-2</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_2.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-002</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-003</g:id>
+      <g:title>Produkt 3</g:title>
+      <g:description>Beskrivelse af produkt 3</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-3</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_3.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-003</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-004</g:id>
+      <g:title>Produkt 4</g:title>
+      <g:description>Beskrivelse af produkt 4</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-4</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_4.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-004</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-005</g:id>
+      <g:title>Produkt 5</g:title>
+      <g:description>Beskrivelse af produkt 5</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-5</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_5.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-005</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-006</g:id>
+      <g:title>Produkt 6</g:title>
+      <g:description>Beskrivelse af produkt 6</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-6</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_6.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-006</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-007</g:id>
+      <g:title>Produkt 7</g:title>
+      <g:description>Beskrivelse af produkt 7</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-7</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_7.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-007</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-008</g:id>
+      <g:title>Produkt 8</g:title>
+      <g:description>Beskrivelse af produkt 8</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-8</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_8.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-008</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-009</g:id>
+      <g:title>Produkt 9</g:title>
+      <g:description>Beskrivelse af produkt 9</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-9</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_9.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-009</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-010</g:id>
+      <g:title>Produkt 10</g:title>
+      <g:description>Beskrivelse af produkt 10</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-10</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_10.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-010</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-011</g:id>
+      <g:title>Produkt 11</g:title>
+      <g:description>Beskrivelse af produkt 11</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-11</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_11.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-011</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-012</g:id>
+      <g:title>Produkt 12</g:title>
+      <g:description>Beskrivelse af produkt 12</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-12</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_12.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-012</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-013</g:id>
+      <g:title>Produkt 13</g:title>
+      <g:description>Beskrivelse af produkt 13</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-13</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_13.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-013</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-014</g:id>
+      <g:title>Produkt 14</g:title>
+      <g:description>Beskrivelse af produkt 14</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-14</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_14.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-014</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-015</g:id>
+      <g:title>Produkt 15</g:title>
+      <g:description>Beskrivelse af produkt 15</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-15</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_15.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-015</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-016</g:id>
+      <g:title>Produkt 16</g:title>
+      <g:description>Beskrivelse af produkt 16</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-16</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_16.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-016</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-017</g:id>
+      <g:title>Produkt 17</g:title>
+      <g:description>Beskrivelse af produkt 17</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-17</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_17.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-017</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-018</g:id>
+      <g:title>Produkt 18</g:title>
+      <g:description>Beskrivelse af produkt 18</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-18</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_18.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-018</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-019</g:id>
+      <g:title>Produkt 19</g:title>
+      <g:description>Beskrivelse af produkt 19</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-19</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_19.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-019</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-020</g:id>
+      <g:title>Produkt 20</g:title>
+      <g:description>Beskrivelse af produkt 20</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-20</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_20.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-020</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-021</g:id>
+      <g:title>Produkt 21</g:title>
+      <g:description>Beskrivelse af produkt 21</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-21</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_21.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-021</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-022</g:id>
+      <g:title>Produkt 22</g:title>
+      <g:description>Beskrivelse af produkt 22</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-22</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_22.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-022</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-023</g:id>
+      <g:title>Produkt 23</g:title>
+      <g:description>Beskrivelse af produkt 23</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-23</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_23.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-023</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-024</g:id>
+      <g:title>Produkt 24</g:title>
+      <g:description>Beskrivelse af produkt 24</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-24</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_24.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-024</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-025</g:id>
+      <g:title>Produkt 25</g:title>
+      <g:description>Beskrivelse af produkt 25</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-25</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_25.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-025</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-026</g:id>
+      <g:title>Produkt 26</g:title>
+      <g:description>Beskrivelse af produkt 26</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-26</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_26.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-026</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-027</g:id>
+      <g:title>Produkt 27</g:title>
+      <g:description>Beskrivelse af produkt 27</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-27</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_27.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-027</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-028</g:id>
+      <g:title>Produkt 28</g:title>
+      <g:description>Beskrivelse af produkt 28</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-28</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_28.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-028</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-029</g:id>
+      <g:title>Produkt 29</g:title>
+      <g:description>Beskrivelse af produkt 29</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-29</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_29.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-029</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-030</g:id>
+      <g:title>Produkt 30</g:title>
+      <g:description>Beskrivelse af produkt 30</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-30</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_30.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-030</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-031</g:id>
+      <g:title>Produkt 31</g:title>
+      <g:description>Beskrivelse af produkt 31</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-31</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_31.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-031</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-032</g:id>
+      <g:title>Produkt 32</g:title>
+      <g:description>Beskrivelse af produkt 32</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-32</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_32.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-032</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-033</g:id>
+      <g:title>Produkt 33</g:title>
+      <g:description>Beskrivelse af produkt 33</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-33</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_33.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-033</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-034</g:id>
+      <g:title>Produkt 34</g:title>
+      <g:description>Beskrivelse af produkt 34</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-34</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_34.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-034</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-035</g:id>
+      <g:title>Produkt 35</g:title>
+      <g:description>Beskrivelse af produkt 35</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-35</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_35.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-035</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-036</g:id>
+      <g:title>Produkt 36</g:title>
+      <g:description>Beskrivelse af produkt 36</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-36</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_36.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-036</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-037</g:id>
+      <g:title>Produkt 37</g:title>
+      <g:description>Beskrivelse af produkt 37</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-37</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_37.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-037</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-038</g:id>
+      <g:title>Produkt 38</g:title>
+      <g:description>Beskrivelse af produkt 38</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-38</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_38.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-038</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-039</g:id>
+      <g:title>Produkt 39</g:title>
+      <g:description>Beskrivelse af produkt 39</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-39</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_39.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-039</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-040</g:id>
+      <g:title>Produkt 40</g:title>
+      <g:description>Beskrivelse af produkt 40</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-40</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_40.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-040</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-041</g:id>
+      <g:title>Produkt 41</g:title>
+      <g:description>Beskrivelse af produkt 41</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-41</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_41.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-041</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-042</g:id>
+      <g:title>Produkt 42</g:title>
+      <g:description>Beskrivelse af produkt 42</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-42</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_42.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-042</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-043</g:id>
+      <g:title>Produkt 43</g:title>
+      <g:description>Beskrivelse af produkt 43</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-43</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_43.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-043</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-044</g:id>
+      <g:title>Produkt 44</g:title>
+      <g:description>Beskrivelse af produkt 44</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-44</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_44.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-044</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-045</g:id>
+      <g:title>Produkt 45</g:title>
+      <g:description>Beskrivelse af produkt 45</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-45</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_45.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-045</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-046</g:id>
+      <g:title>Produkt 46</g:title>
+      <g:description>Beskrivelse af produkt 46</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-46</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_46.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-046</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-047</g:id>
+      <g:title>Produkt 47</g:title>
+      <g:description>Beskrivelse af produkt 47</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-47</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_47.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-047</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-048</g:id>
+      <g:title>Produkt 48</g:title>
+      <g:description>Beskrivelse af produkt 48</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-48</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_48.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-048</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-049</g:id>
+      <g:title>Produkt 49</g:title>
+      <g:description>Beskrivelse af produkt 49</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-49</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_49.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-049</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-050</g:id>
+      <g:title>Produkt 50</g:title>
+      <g:description>Beskrivelse af produkt 50</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-50</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_50.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-050</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-051</g:id>
+      <g:title>Produkt 51</g:title>
+      <g:description>Beskrivelse af produkt 51</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-51</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_51.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-051</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-052</g:id>
+      <g:title>Produkt 52</g:title>
+      <g:description>Beskrivelse af produkt 52</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-52</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_52.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-052</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-053</g:id>
+      <g:title>Produkt 53</g:title>
+      <g:description>Beskrivelse af produkt 53</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-53</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_53.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-053</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-054</g:id>
+      <g:title>Produkt 54</g:title>
+      <g:description>Beskrivelse af produkt 54</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-54</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_54.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-054</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-055</g:id>
+      <g:title>Produkt 55</g:title>
+      <g:description>Beskrivelse af produkt 55</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-55</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_55.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-055</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-056</g:id>
+      <g:title>Produkt 56</g:title>
+      <g:description>Beskrivelse af produkt 56</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-56</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_56.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-056</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-057</g:id>
+      <g:title>Produkt 57</g:title>
+      <g:description>Beskrivelse af produkt 57</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-57</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_57.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-057</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-058</g:id>
+      <g:title>Produkt 58</g:title>
+      <g:description>Beskrivelse af produkt 58</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-58</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_58.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-058</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-059</g:id>
+      <g:title>Produkt 59</g:title>
+      <g:description>Beskrivelse af produkt 59</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-59</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_59.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-059</g:mpn>
+    </item>
+    <item>
+      <g:id>PROD-060</g:id>
+      <g:title>Produkt 60</g:title>
+      <g:description>Beskrivelse af produkt 60</g:description>
+      <g:link>https://capsuleapp.io/products/produkt-60</g:link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/0914/3546/7094/files/produkt_60.png?v=12345678</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>399.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>DemoBrand</g:brand>
+      <g:mpn>MPN-060</g:mpn>
+    </item>
+  </channel>
+</rss>
